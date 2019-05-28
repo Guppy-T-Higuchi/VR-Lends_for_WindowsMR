@@ -1,5 +1,5 @@
-# VR-Lends_for_WindowsMR
-VR Lends for WindowsMR
+# VR-Lens_for_WindowsMR
+VR Lens for WindowsMR
 
 
 とりあえずモデルだけ公開。後で解説書く
