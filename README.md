@@ -1,5 +1,5 @@
-# VR-Lens_for_WindowsMR
-VR Lens for WindowsMR
+# VR Lens for WindowsMR and Oculus Quest 
+VR Lens for WindowsMR and Oculus Quest 
 
 【09/22更新】 
 ・Oculus Questに対応  
