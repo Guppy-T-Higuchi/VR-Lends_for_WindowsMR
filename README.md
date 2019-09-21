@@ -1,7 +1,7 @@
 # VR-Lens_for_WindowsMR
 VR Lens for WindowsMR
 
-【近日更新】今月中にモデルのアップデートを行います  
+【09/22更新】 
 ・Oculus Questに対応  
 ・サポート機器追加によるリポジトリの名称変更  
 ・マウント部の寸法が若干ずれていたのを修正  
