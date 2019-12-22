@@ -9,7 +9,7 @@ VR Lens for WindowsMR and Oculus Quest
     
 
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー  
-とりあえずモデルだけ公開。後で解説書く
+
 
 
 使い方)  
